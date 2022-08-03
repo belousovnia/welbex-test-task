@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e41dc23.css",
-    "main.js": "/static/js/main.aaa49bc5.js",
-    "static/js/787.6c64e4c2.chunk.js": "/static/js/787.6c64e4c2.chunk.js",
-    "index.html": "/index.html",
-    "main.5e41dc23.css.map": "/static/css/main.5e41dc23.css.map",
-    "main.aaa49bc5.js.map": "/static/js/main.aaa49bc5.js.map",
-    "787.6c64e4c2.chunk.js.map": "/static/js/787.6c64e4c2.chunk.js.map"
+    "main.css": "/welbex-test-task/static/css/main.5e41dc23.css",
+    "main.js": "/welbex-test-task/static/js/main.a657249b.js",
+    "static/js/787.6c64e4c2.chunk.js": "/welbex-test-task/static/js/787.6c64e4c2.chunk.js",
+    "index.html": "/welbex-test-task/index.html",
+    "main.5e41dc23.css.map": "/welbex-test-task/static/css/main.5e41dc23.css.map",
+    "main.a657249b.js.map": "/welbex-test-task/static/js/main.a657249b.js.map",
+    "787.6c64e4c2.chunk.js.map": "/welbex-test-task/static/js/787.6c64e4c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e41dc23.css",
-    "static/js/main.aaa49bc5.js"
+    "static/js/main.a657249b.js"
   ]
 }
